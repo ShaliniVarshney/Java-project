@@ -12,3 +12,4 @@ CMD ["java", "-jar", "app.jar"]
 
 test
 test2
+test3
