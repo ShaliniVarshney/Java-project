@@ -10,6 +10,3 @@ WORKDIR $APP_HOME
 
 CMD ["java", "-jar", "app.jar"]
 
-test
-test2
-test3
